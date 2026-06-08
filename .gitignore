@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.env
+
+# Analysis outputs (generated at runtime)
+checkpoint.csv
+russell_3000_analysis.csv
+results.csv
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Screenshots
+*.png
