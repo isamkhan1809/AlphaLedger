@@ -9,14 +9,14 @@
 ╚═╝  ╚═╝╚══════╝╚═╝     ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚══════╝╚═════╝  ╚═════╝ ╚══════╝╚═╝  ╚═╝
 ```
 
-### *Autonomous SEC Intelligence. Zero Cost. Full Power.*
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Autonomous+SEC+EDGAR+Intelligence+%F0%9F%93%88;Mine+10-K+Filings+Across+Thousands+of+Companies;Predict+Future+Earnings+%E2%80%94+Zero+Cost%2C+Full+Power;Russell+3000+%7C+S%26P+500+%7C+Custom+Index+Support" alt="Typing SVG" />
+
+<img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="360" />
 
 [![Python](https://img.shields.io/badge/Python-3.9%2B-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
 [![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://streamlit.io)
 [![SEC EDGAR](https://img.shields.io/badge/Data-SEC%20EDGAR-003087?style=for-the-badge)](https://www.sec.gov/developer)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)](LICENSE)
-
----
 
 > **An autonomous Python agent that mines SEC EDGAR 10-K filings, extracts financial DNA from thousands of companies, and predicts future earnings — all for free.**
 
@@ -127,17 +127,6 @@ python agent.py --source custom --custom-path my_tickers.csv
 
 ---
 
-## ◈ Custom CSV Format
-
-```csv
-Ticker,Name,Sector,Market Value
-AAPL,Apple Inc,Technology,2800000000000
-TSLA,Tesla Inc,Consumer Discretionary,600000000000
-NVDA,Nvidia Corp,Technology,1100000000000
-```
-
----
-
 ## ◈ Output Columns
 
 | Column | Description |
@@ -192,5 +181,11 @@ AlphaLedger/
 **Built with Python · Powered by SEC EDGAR · Zero Paywalls**
 
 *MIT License*
+
+<br/>
+
+Built by [Isam Khan](https://github.com/isamkhan1809) &nbsp;|&nbsp;
+<a href="https://linkedin.com/in/isam-khan-3a1260292"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white&labelColor=000000"/></a>
+<a href="https://isamkhan.com"><img src="https://img.shields.io/badge/-isamkhan.com-00D9FF?style=flat-square&logo=googlechrome&logoColor=white&labelColor=000000"/></a>
 
 </div>
