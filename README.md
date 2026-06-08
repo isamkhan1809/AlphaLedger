@@ -11,7 +11,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Autonomous+SEC+EDGAR+Intelligence+%F0%9F%93%88;Mine+10-K+Filings+Across+Thousands+of+Companies;Predict+Future+Earnings+%E2%80%94+Zero+Cost%2C+Full+Power;Russell+3000+%7C+S%26P+500+%7C+Custom+Index+Support" alt="Typing SVG" />
 
-<img src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif" width="360" />
+<img src="https://media.giphy.com/media/bvPScI7z27Fap4uHiA/giphy.gif" width="360" />
 
 [![Python](https://img.shields.io/badge/Python-3.9%2B-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
 [![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://streamlit.io)
