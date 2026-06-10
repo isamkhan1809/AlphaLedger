@@ -85,29 +85,29 @@ TSLA  predicted_eps: 3.92   pe: 72.8
 ┌─────────────────────────────────────────────────────────────┐
 │                      ALPHALEDGER ENGINE                     │
 │                                                             │
-│  ┌─────────────┐     ┌──────────────┐     ┌─────────────┐  │
-│  │  Index CSV  │────▶│ CIK Resolver │────▶│  SEC EDGAR  │  │
-│  │  Russell /  │     │              │     │  XBRL API   │  │
-│  │  S&P / Any  │     │  ticker→CIK  │     │             │  │
-│  └─────────────┘     └──────────────┘     └──────┬──────┘  │
-│                                                  │         │
-│                                    ┌─────────────▼──────┐  │
-│                                    │   Metric Extractor  │  │
-│                                    │   Revenue · EPS     │  │
-│                                    │   Net Income · P/E  │  │
-│                                    └─────────────┬──────┘  │
-│                                                  │         │
-│                                    ┌─────────────▼──────┐  │
-│                                    │  Linear Regression  │  │
-│                                    │  Predicted EPS      │  │
-│                                    │  Checkpoint: /25    │  │
-│                                    └─────────────┬──────┘  │
-│                                                  │         │
-│                                    ┌─────────────▼──────┐  │
-│                                    │  Streamlit Dashboard│  │
-│                                    │  Rankings · Sectors │  │
-│                                    │  CSV Export         │  │
-│                                    └────────────────────┘  │
+│  ┌─────────────┐     ┌──────────────┐     ┌─────────────┐   │
+│  │  Index CSV  │────▶│ CIK Resolver │────▶│  SEC EDGAR  │   │
+│  │  Russell /  │     │              │     │  XBRL API   │   │
+│  │  S&P / Any  │     │  ticker→CIK  │     │             │   │
+│  └─────────────┘     └──────────────┘     └──────┬──────┘   │
+│                                                  │          │
+│                                    ┌─────────────▼──────┐   │
+│                                    │  Metric Extractor  │   │
+│                                    │  Revenue · EPS     │   │
+│                                    │  Net Income · P/E  │   │
+│                                    └─────────────┬──────┘   │
+│                                                  │          │
+│                                    ┌─────────────▼──────┐   │
+│                                    │ Linear Regression  │   │
+│                                    │ Predicted EPS      │   │
+│                                    │ Checkpoint: /25    │   │ 
+│                                    └─────────────┬──────┘   │
+│                                                  │          │
+│                                    ┌─────────────▼──────┐   │
+│                                    │ Streamlit Dashboard│   │
+│                                    │ Rankings · Sectors │   │
+│                                    │ CSV Export         │   │ 
+│                                    └────────────────────┘   │
 └─────────────────────────────────────────────────────────────┘
 ```
 
